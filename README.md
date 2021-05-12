@@ -1,7 +1,10 @@
 # doorlock
 i created an Arduino-based door lock with IR remote and servo
 
-You can found the code on sketchlock.ino or under the next photos:
+You can found the code on 
+
+                            sketchlock/sketchlock.ino
+   or  under the next photos:
  
 
 some random photos:
